@@ -1,0 +1,4 @@
+- name: configure top level configuration
+  ios_config:
+    lines: hostname testhostname
+
